@@ -1,59 +1,33 @@
 ---
-title: "Lab 1"
-author: "your name goes here"
+title: "Lab 2: Linear Regression"
+author: "your names goes here"
 output: 
   html_document: 
     highlight: pygments
     theme: spacelab
 ---
 
-## Part II
-
 #### Exercise 1
-
-```{r}
-library(MASS)
-```
-
-*Type out your answer to the first question here.*
 
 #### Exercise 2
 
-```{r}
-
-```
-
 #### Exercise 3
-
-```{r}
-
-```
-
 
 #### Exercise 4
 
-```{r}
-
-```
-
-
 #### Exercise 5
-
-```{r}
-
-```
-
 
 #### Exercise 6
 
-```{r}
-
-```
-
-
 #### Exercise 7
 
-```{r}
+#### Exercise 8
 
-```
+#### Exercise 9
+
+#### Exercise 10
+
+#### Exercise 11
+
+#### Exercise 12
 
